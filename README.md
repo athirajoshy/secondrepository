@@ -1,2 +1,2 @@
 # secondrepository
-demo
+notes on basic python
